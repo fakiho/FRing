@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'FRing'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of FRing.'
+  s.summary          = 'A Ring Progress Bar using Swift.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -26,9 +26,9 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fakiho' => 'ali@fakiho.com' }
   s.source           = { :git => 'https://github.com/fakiho/FRing.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/F4kiho'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'FRing/Classes/**/*'
   

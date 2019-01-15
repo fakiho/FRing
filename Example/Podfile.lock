@@ -1,0 +1,16 @@
+PODS:
+  - FRing (0.1.0)
+
+DEPENDENCIES:
+  - FRing (from `../`)
+
+EXTERNAL SOURCES:
+  FRing:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FRing: 7979440e5130dc06d80085b3c3a1739fecba5909
+
+PODFILE CHECKSUM: 7430d0f10f4a7eb51e805f1f78d06c68836ada68
+
+COCOAPODS: 1.5.3

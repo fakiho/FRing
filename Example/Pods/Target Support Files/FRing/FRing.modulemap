@@ -1,0 +1,6 @@
+framework module FRing {
+  umbrella header "FRing-umbrella.h"
+
+  export *
+  module * { export * }
+}
