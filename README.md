@@ -1,6 +1,5 @@
 # FRing
 
-[![CI Status](https://img.shields.io/travis/fakiho/FRing.svg?style=flat)](https://travis-ci.org/fakiho/FRing)
 [![Version](https://img.shields.io/cocoapods/v/FRing.svg?style=flat)](https://cocoapods.org/pods/FRing)
 [![License](https://img.shields.io/cocoapods/l/FRing.svg?style=flat)](https://cocoapods.org/pods/FRing)
 [![Platform](https://img.shields.io/cocoapods/p/FRing.svg?style=flat)](https://cocoapods.org/pods/FRing)
